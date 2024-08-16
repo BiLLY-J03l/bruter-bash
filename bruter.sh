@@ -4,7 +4,7 @@ main(){
         #copy curl command from burp and add the following switches for curl: 
         #       --silent
         #       --insecure
-        #       --m <timeout period> ==> recommended 10
+        #       -m <timeout period> ==> recommended 10
         #       -o /dev/null
         #       -w "%{http_code}" ==> optional, do your research on the replies and act as follows.
         #
