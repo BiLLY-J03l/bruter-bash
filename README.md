@@ -9,9 +9,9 @@ a reliable brute force tool with bash
 
 -Do your research over the response you want to get with BurpSuite.
 
--Get the desired curl request from BurpSuite(recommended).
+-Get the desired curl request from BurpSuite (recommended).
 
--Modify the cmd variable in the script and add the switches you need from the comments in the script.
+-Modify the cmd variable in the script and add the curl switches you need from the comments in the script.
 
 -Installation:
 
